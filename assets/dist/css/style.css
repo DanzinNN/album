@@ -74,3 +74,12 @@ z-index: 1500;
 .bd-mode-toggle .dropdown-menu .active .bi {
 display: block !important;
 }
+
+.album-py-5-bg-body-tertiary {
+    background-color: gray;
+}
+.py-5-text-center-container {
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+}
