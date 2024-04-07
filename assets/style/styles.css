@@ -1,4 +1,4 @@
-bd-placeholder-img {
+.bd-placeholder-img {
 font-size: 1.125rem;
 text-anchor: middle;
 -webkit-user-select: none;
@@ -73,4 +73,29 @@ z-index: 1500;
 
 .bd-mode-toggle .dropdown-menu .active .bi {
 display: block !important;
+}
+#logo_Recife {
+    display: flex;
+    position: absolute;
+    left: 15px;
+    padding: 17px;
+}
+#logo_cadunico{
+    display: flex;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#logo_credpop {
+    display: flex;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+    padding: 10px ;
+}
+.navbar_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
