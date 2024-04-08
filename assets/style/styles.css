@@ -87,11 +87,11 @@ display: block !important;
     padding: 10px;
 }
 #linha_horizontal {
-    width: 330px;
+    width: 100%;
     border: 1px solid;
     border-radius: 10px;
-    background-color: black;
-    color: black;
+    background-color: grey;
+    color: transparent;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -103,11 +103,70 @@ display: block !important;
     justify-content: center;
     padding: 10px ;
 }
+#moeda_capiba{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#go_recife {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 06px;
+}
+#tarifa_social_energia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#recife_cuida{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#adota_pet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#se_mexe_comigo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#minha_saude_conectada{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
 .navbar_text {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+.card-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
 section{
     background-image: url(https://www.vaipormim.com/storage/posts/files/1d4c0c56a01f865fce66d2a971188e5621c7dea1.webp);
+}
+.custom-navbar-bg{
+    background-color: black;
+}
+.custom-footer-bg{
+    background-color: black;
+}
+main {
+    background-color: black;
+}
+body{
+    background-color: black;
 }
