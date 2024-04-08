@@ -157,6 +157,7 @@ display: block !important;
 }
 section{
     background-image: url(https://www.vaipormim.com/storage/posts/files/1d4c0c56a01f865fce66d2a971188e5621c7dea1.webp);
+    border-radius: 30px;
 }
 .custom-navbar-bg{
     background-color: black;
